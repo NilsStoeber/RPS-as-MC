@@ -9,7 +9,7 @@ In Modell 2 ist das Aussterben von Strategie nicht möglich, stattdessen gibt es
 dass Strategien zurückkehren können.
 
 In beiden Modellen sind wir am Langzeitverhalten interessiert, welches in Modell 1 die Fixierung auf eine
-einzige Strategie bedeutet, während wir in Modell 2 die Langzeitverteilung betrachten.
+einzige Strategie bedeutet, während wir in Modell 2 die stationäre Verteilung im Langzeitverhalten betrachten.
 
 # Implementierung
 RSPSim1.py und RSPSim2.py dienen als approximative Simulationen für diese beiden Modelle, um die gesuchten Größen anzunähern.
