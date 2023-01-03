@@ -87,6 +87,6 @@ def plotVF(vecscale = 3, method = 1):
     plt.text(N*0.485*np.sqrt(5/4),N*1.02,"S")
     plt.show()
 
-
+#%%
 plotVF(2, method = 1)
 plotVF(18, method = 2)
